@@ -1,0 +1,1 @@
+Offline data: Multilingualism, from Wiktionary contributors; https://github.com/MethodoxTech/Multilingualism ; CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ . Data downloaded by user from jsDelivr; app extracts Russian translations and parts of speech. Online Wiktionary and Datamuse remain optional.
